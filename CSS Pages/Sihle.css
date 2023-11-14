@@ -1,0 +1,20 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'popins', san-serif;
+}
+
+header{
+position:fixed;
+top:0;
+left0;
+width:100%;
+padding:20px 100px;
+background:red;
+display:flex;
+justify-content:space-between;
+align Items: center;
+index:99;
+}
+
